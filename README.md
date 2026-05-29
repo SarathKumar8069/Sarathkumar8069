@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarath Kumar Balli</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Full-Stack Developer focused on building scalable web applications with JavaScript, React, Node.js, Python, and Flask. Passionate about solving real-world problems, creating unique projects, and continuously improving through hands-on development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkumar8069&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkumar8069" /> </p>
 
