@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sarath Kumar Balli</h1>
-<h3 align="center">Full-Stack Developer focused on building scalable web applications with JavaScript, React, Node.js, Python, and Flask. Passionate about solving real-world problems, creating unique projects, and continuously improving through hands-on development.</h3>
+<h3 align="center">A passionate backend-focused full-stack software developer dedicated to building scalable, efficient, and clean web applications. I love diving deep into architectural patterns, optimizing APIs, and bringing ideas to life with modern tech stacks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkumar8069&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkumar8069" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathkumar8069" alt="sarathkumar8069" /></a> </p>
 
+- 🔭 I’m currently working on **Optimizing backend service reliability and exploring advanced architectural patterns.**
+
+- 💬 Ask me about **Backend Engineering :Building RESTful APIs with Node.js/Express, managing database lifecycles in MongoDB, or handling type-safety with TypeScript. Frontend Architecture :Component design in React, clean styling with Tailwind CSS, or migrating projects to Next.js.**
+
 - 📫 How to reach me **sarathkumarballi@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1V1LbXz_XBrmCJGa-lJ7pHlXJwYsEBDC5/view?usp=drive_link](https://drive.google.com/file/d/1V1LbXz_XBrmCJGa-lJ7pHlXJwYsEBDC5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/SarathKumar8069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SarathKumar8069" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/sarath_balli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sarath_balli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarathkumarballi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarathkumarballi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sarathballi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sarathballi" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/500081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500081" height="30" width="40" /></a>
