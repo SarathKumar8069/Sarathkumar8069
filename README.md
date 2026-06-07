@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathkumar8069&label=Profile%20views&color=0e75b6&style=flat" alt="sarathkumar8069" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathkumar8069" alt="sarathkumar8069" /></a> </p>
+<p align="left"> <a href="https://github.com/SarathKumar8069"><img src="https://github-profile-trophy.vercel.app/?username=sarathkumar8069" alt="sarathkumar8069" /></a> </p>
 
 - 🔭 I’m currently working on **Optimizing backend service reliability and exploring advanced architectural patterns.**
 
